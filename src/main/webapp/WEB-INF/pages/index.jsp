@@ -20,7 +20,7 @@
 <html> 
 <head> 
     <meta http-equiv="Content-type" content="text/html; charset=utf-8"> 
-    <title> A sample web app</title> 
+    <title> Paul's Sample Web App</title> 
     <meta name="viewport" content="initial-scale=1.0"> 
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap.min.css'> 
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'> 
@@ -29,29 +29,29 @@
 <body role="document"> 
   <div class="container theme-showcase" role="main"> 
     <div class="jumbotron"> 
-      <h1>A Sample web application: Demo</h1> 
-      <p><i>Why can't application deployment be sooooooooooooooo easy?</i></p> 
+      <h1>Paul's Demo Page</h1> 
+      <p><i>Modifying this Page and committing will automatically triger a deployment!</i></p> 
     </div> 
     <div class="page-header"> 
-      <h1>Our Products</h1> 
+      <h1>PSEG Pipeline</h1> 
     </div> 
     <div class="panel panel-default" > 
       <div class="row"> 
         <div class="col-sm-9 col-md-9 col-lg-9"> 
           <div class="panel panel-default"> 
             <div class="panel-heading"> 
-              <h3 class="panel-title">AWS CodeCommit</h3> 
+              <h3 class="panel-title">GitHub Enterprise</h3> 
             </div> 
             <div class="panel-body"> 
-              AWS CodeBuild is a fully managed build service that compiles source code, runs tests, and produces software packages that are ready to deploy. With CodeBuild, you don’t need to provision, manage, and scale your own build servers. CodeBuild scales continuously and processes multiple builds concurrently, so your builds are not left waiting in a queue. 
-              <a href="https://aws.amazon.com/codebuild/" target="_blank" >More info</a> 
+              GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+              <a href="https://github.aws.pseg.com/" target="_blank" >More info</a> 
             </div> 
           </div> 
         </div> 
         <div class="col-sm-2 col-md-2 col-lg-2"> 
           <div class="panel panel-default"> 
             <div class="panel-body"> 
-              <img src="images/codecommit.png" style="width:100px;height:100px;"> 
+              <img src="images/GitHub.png" style="width:100px;height:100px;"> 
             </div> 
           </div> 
         </div> 
